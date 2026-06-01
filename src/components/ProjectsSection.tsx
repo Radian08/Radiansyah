@@ -13,10 +13,7 @@ export function ProjectsSection() {
         title="Studi kasus singkat — bukti cara berpikir Anda"
       />
       <p className="mt-4 max-w-2xl text-slate-400">
-        Beda dari portofolio UI/UX murni: tiap kartu menonjolkan logika teknis dan
-        dampak terukur. Ganti konten di{" "}
         <code className="rounded bg-slate-800 px-1.5 py-0.5 text-xs text-sky-300">
-          src/data/site.ts
         </code>
         .
       </p>

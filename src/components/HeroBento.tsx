@@ -80,7 +80,7 @@ export function HeroBento() {
                 Fokus saat ini
               </p>
               <p className="mt-1 text-sm leading-relaxed text-slate-300">
-                Portofolio proyek kampus, open source kecil, dan persiapan magang
+                Tugas kampus, open source kecil, dan persiapan magang
                 software engineer.
               </p>
             </div>
