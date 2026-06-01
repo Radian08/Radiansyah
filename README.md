@@ -1,4 +1,4 @@
-# Portofolio TI — Mahasiswa Teknik Informatika
+# Radiansyah Akmal Sofyan — Mahasiswa Teknik Informatika
 
 Portofolio single-page dengan **bento grid**, animasi halus (Framer Motion), dan fokus **case study engineering** (Masalah → Pendekatan → Hasil).
 
