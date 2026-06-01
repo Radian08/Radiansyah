@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Segoe UI", system-ui, sans-serif;
+  --font-mono: "Cascadia Code", "Consolas", monospace;
+  --color-surface: #0c0f14;
+  --color-surface-elevated: #141a24;
+  --color-border: #243044;
+  --color-muted: #8b9cb3;
+  --color-accent: #38bdf8;
+  --color-accent-soft: #0e7490;
+  --color-warm: #fbbf24;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-[var(--color-surface)] text-slate-100 antialiased;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(56, 189, 248, 0.12), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(251, 191, 36, 0.06), transparent);
+}
+
+::selection {
+  background: rgba(56, 189, 248, 0.35);
+  color: white;
+}
+
+.bento-card {
+  @apply rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-elevated)]/80 backdrop-blur-sm;
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-sky-300 via-cyan-200 to-amber-200 bg-clip-text text-transparent;
+}
