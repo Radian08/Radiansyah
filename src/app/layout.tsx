@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Radiansyah Akmal Sofyan — Portofolio TI",
+  title: "Radiansyah Akmal Sofyan",
   description:
     "Portofolio Radiansyah Akmal Sofyan, mahasiswa Teknik Informatika Universitas Pamulang.",
 };

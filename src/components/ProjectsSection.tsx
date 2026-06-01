@@ -10,7 +10,7 @@ export function ProjectsSection() {
     <section id="proyek" className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
       <SectionHeading
         eyebrow="Proyek"
-        title="Studi kasus singkat — bukti cara berpikir Anda"
+        title="Studi kasus singkat"
       />
       <p className="mt-4 max-w-2xl text-slate-400">
         <code className="rounded bg-slate-800 px-1.5 py-0.5 text-xs text-sky-300">
