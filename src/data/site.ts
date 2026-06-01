@@ -3,7 +3,7 @@ export const site = {
   role: "Mahasiswa Teknik Informatika",
   tagline:
     "Mahasiswa Universitas Pamulang yang fokus membangun aplikasi web praktis — dari sistem reservasi hingga tools kampus.",
-  location: "Tangerang Selatan, Indonesia",
+  location: "Jakarta Timur, Indonesia",
   status: "Terbuka untuk magang & kolaborasi proyek",
   email: "kmllsfyn@gmail.com",
   github: "https://github.com/Radian08",
